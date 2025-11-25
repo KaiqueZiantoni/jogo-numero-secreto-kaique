@@ -41,4 +41,4 @@ Este projeto demonstra a aplicação sólida dos pilares da programação em Jav
 
 ---
 
-**Desenvolvido por:** [Seu Nome]
+**Desenvolvido por:** Kaique Ziantoni Rosa
